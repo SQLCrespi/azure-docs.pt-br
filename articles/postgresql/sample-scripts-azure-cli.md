@@ -31,6 +31,6 @@ A tabela a seguir inclui links para exemplos de scripts da CLI do Azure para o B
 |**Restaurar um servidor**||
 | [Restaurar um servidor](./scripts/sample-point-in-time-restore.md?toc=%2fcli%2fazure%2ftoc.json) | Script CLI do Azure que restaura um Banco de Dados do Azure para PostgreSQL a um ponto anterior. |
 |**Baixar os logs do servidor**||
-| [Habilitar e fazer downloado dos logs do servidor](./scripts/sample-server-logs.md?toc=%2fcli%2fazure%2ftoc.json) | Script da CLI do Azure que habilita e baixa logs do servidor de um Banco de Dados do Azure para PostgreSQL. |
+| [Habilitar e fazer download dos logs do servidor](./scripts/sample-server-logs.md?toc=%2fcli%2fazure%2ftoc.json) | Script da CLI do Azure que habilita e baixa logs do servidor de um Banco de Dados do Azure para PostgreSQL. |
 |||
 
